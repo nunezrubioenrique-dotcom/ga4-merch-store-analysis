@@ -3,7 +3,9 @@
 Análisis del comportamiento de compra de la tienda online de Google (Google Merchandise Store) a partir de su export público de **Google Analytics 4 en BigQuery**, con un dashboard en **Looker Studio (Data Studio)**.
 
 **Autor:** Enrique Núñez Rubio · Marketing & Data Analyst
+
 **Herramientas:** BigQuery (SQL), Google Analytics 4, Looker Studio (Data Studio)
+
 **Dashboard interactivo:** [GA4 Merch Store – Análisis de ecommerce (Data Studio)](https://datastudio.google.com/reporting/5260ff17-a383-41e0-b827-be1dad8c87b5)
 
 ---
